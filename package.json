@@ -1,6 +1,6 @@
 {
   "name": "neutrino-webextension-mv3",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "Neutrino 9 preset for WebExtension development with hot reload and framework devtools. only manifest v3 supported.",
   "keywords": [
     "neutrino",
@@ -49,7 +49,7 @@
     "globby": "^10.0.1",
     "open": "^7.0.4",
     "webextensions-emulator": "^1.2.6",
-    "webpack-target-webextension": "0.2.1",
+    "webpack-target-webextension-v4": "0.2.2",
     "yargs-parser": "^18.1.0"
   },
   "devDependencies": {
